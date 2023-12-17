@@ -1,0 +1,5 @@
+The Spaghetti relay project is simple a chat program between a server and a client.
+
+It is meant to be a simulation program and act as a server and a client would on
+
+an actual network.

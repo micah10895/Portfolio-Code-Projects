@@ -1,0 +1,13 @@
+Instructions to successfully run this program.
+
+- open two instances of the program (either on the same computer or on 2 different computers)
+
+- You can use any Private IP address assigned to your network (If you're not sure about IP's)
+  I recommend just keeping the one selected) both instances need to have the same IP
+
+- Same goes for the port
+
+- One must be in server mode and the other in client mode
+
+- On the Server hit the listen button and then on the Client hit the connect button
+  now you should be able to send messaegs between the server and the client.
